@@ -1,0 +1,35 @@
+D:\C# lesson\imageEdit\imageEdit\bin\Debug\net8.0-windows\imageEdit.exe
+D:\C# lesson\imageEdit\imageEdit\bin\Debug\net8.0-windows\imageEdit.deps.json
+D:\C# lesson\imageEdit\imageEdit\bin\Debug\net8.0-windows\imageEdit.runtimeconfig.json
+D:\C# lesson\imageEdit\imageEdit\bin\Debug\net8.0-windows\imageEdit.dll
+D:\C# lesson\imageEdit\imageEdit\bin\Debug\net8.0-windows\imageEdit.pdb
+D:\C# lesson\imageEdit\imageEdit\obj\Debug\net8.0-windows\imageEdit.Form1.resources
+D:\C# lesson\imageEdit\imageEdit\obj\Debug\net8.0-windows\imageEdit.Properties.Resources.resources
+D:\C# lesson\imageEdit\imageEdit\obj\Debug\net8.0-windows\imageEdit.csproj.GenerateResource.cache
+D:\C# lesson\imageEdit\imageEdit\obj\Debug\net8.0-windows\imageEdit.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# lesson\imageEdit\imageEdit\obj\Debug\net8.0-windows\imageEdit.AssemblyInfoInputs.cache
+D:\C# lesson\imageEdit\imageEdit\obj\Debug\net8.0-windows\imageEdit.AssemblyInfo.cs
+D:\C# lesson\imageEdit\imageEdit\obj\Debug\net8.0-windows\imageEdit.csproj.CoreCompileInputs.cache
+D:\C# lesson\imageEdit\imageEdit\obj\Debug\net8.0-windows\imageEdit.dll
+D:\C# lesson\imageEdit\imageEdit\obj\Debug\net8.0-windows\refint\imageEdit.dll
+D:\C# lesson\imageEdit\imageEdit\obj\Debug\net8.0-windows\imageEdit.pdb
+D:\C# lesson\imageEdit\imageEdit\obj\Debug\net8.0-windows\imageEdit.genruntimeconfig.cache
+D:\C# lesson\imageEdit\imageEdit\obj\Debug\net8.0-windows\ref\imageEdit.dll
+C:\Users\Zakir\source\repos\MPL8\imageEdit\bin\Debug\net8.0-windows\imageEdit.exe
+C:\Users\Zakir\source\repos\MPL8\imageEdit\bin\Debug\net8.0-windows\imageEdit.deps.json
+C:\Users\Zakir\source\repos\MPL8\imageEdit\bin\Debug\net8.0-windows\imageEdit.runtimeconfig.json
+C:\Users\Zakir\source\repos\MPL8\imageEdit\bin\Debug\net8.0-windows\imageEdit.dll
+C:\Users\Zakir\source\repos\MPL8\imageEdit\bin\Debug\net8.0-windows\imageEdit.pdb
+C:\Users\Zakir\source\repos\MPL8\imageEdit\obj\Debug\net8.0-windows\imageEdit.Form1.resources
+C:\Users\Zakir\source\repos\MPL8\imageEdit\obj\Debug\net8.0-windows\imageEdit.Properties.Resources.resources
+C:\Users\Zakir\source\repos\MPL8\imageEdit\obj\Debug\net8.0-windows\imageEdit.csproj.GenerateResource.cache
+C:\Users\Zakir\source\repos\MPL8\imageEdit\obj\Debug\net8.0-windows\imageEdit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zakir\source\repos\MPL8\imageEdit\obj\Debug\net8.0-windows\imageEdit.AssemblyInfoInputs.cache
+C:\Users\Zakir\source\repos\MPL8\imageEdit\obj\Debug\net8.0-windows\imageEdit.AssemblyInfo.cs
+C:\Users\Zakir\source\repos\MPL8\imageEdit\obj\Debug\net8.0-windows\imageEdit.csproj.CoreCompileInputs.cache
+C:\Users\Zakir\source\repos\MPL8\imageEdit\obj\Debug\net8.0-windows\imageEdit.sourcelink.json
+C:\Users\Zakir\source\repos\MPL8\imageEdit\obj\Debug\net8.0-windows\imageEdit.dll
+C:\Users\Zakir\source\repos\MPL8\imageEdit\obj\Debug\net8.0-windows\refint\imageEdit.dll
+C:\Users\Zakir\source\repos\MPL8\imageEdit\obj\Debug\net8.0-windows\imageEdit.pdb
+C:\Users\Zakir\source\repos\MPL8\imageEdit\obj\Debug\net8.0-windows\imageEdit.genruntimeconfig.cache
+C:\Users\Zakir\source\repos\MPL8\imageEdit\obj\Debug\net8.0-windows\ref\imageEdit.dll
